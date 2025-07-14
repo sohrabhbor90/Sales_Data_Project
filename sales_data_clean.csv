@@ -1,0 +1,15 @@
+CustomerID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,TotalAmount,CustomerName,EmailAddress,Street Address,City,State,Zip Code,PaymentStatus,Notes,SalesTrend
+CUST001,15/01/2024,Electronics,Laptop XPS 13,1,1200,1200, Alice Smith  ,alice.smith@email.com,123 Main St.,Anytown,CA,90210,Paid,,2024-01
+CUST002,18/01/2024,Clothing,T-Shirt,2,25.5,51,Bob Johnson,bob.j@email.com,456 Oak Ave.,Smallville,NY,10001,Pending,,2024-01
+CUST003,20/01/2024,Books,The Great Novel,1,15.99,15.99,Charlie Brown,charlie.brown@email.com,789 Pine Ln.,Big City,TX,77001,Paid,Customer requested gift wrapping.,2024-01
+CUST004,22/01/2024,Electronics,Wireless Mouse,2,20,40,Alice Smith,alice.smith@email.com,123 Main St.,Anytown,CA,90210,Paid,,2024-01
+CUST005,1/2/2024,Home Goods,Coffee Maker,1,75,75,Daisy Miller,daisy.m@email.com,101 Elm Blvd.,Metropolis,FL,33101,Paid,,2024-02
+CUST006,5/2/2024,Books,The Art of Data,1,30,30,Eve Davis,eve.davis@email.com,222 Cedar Rd.,Villagetown,WA,98001,Paid,Discount applied.,2024-02
+CUST007,8/2/2024,Electronics,Laptop XPS 13,1,1200,1200,Alice Smith,alice.smith@email.com,123 Main St.,Anytown,CA,90210,Paid,,2024-02
+CUST008,10/2/2024,Clothing,Jeans,1,60,60, Frank White  ,frank.white@email.com,333 Birch Pl.,Countryside,AZ,85001,Pending,,2024-02
+CUST009,15/02/2024,Electronics,Smartwatch,1,150,150,Grace Green,grace.green@email.com,444 Willow Way,Shoreline,NC,27501,Paid,,2024-02
+CUST010,18/02/2024,Home Goods,Blender,1,89.99,89.99,Heidi Blue,heidi.b@email.com,555 Poplar Dr.,Lakeside,GA,30301,Paid,,2024-02
+CUST011,20/02/2024,Books,Coding for Dummies,1,25,25,Iris Black,iris.b@email.com,666 Maple Ave.,Hillside,VA,22201,Paid,,2024-02
+CUST012,25/02/2024,Clothing,Sweater,2,45,90,Jack Orange,jack.orange@email.com,777 Cherry Ct.,Riverton,OR,97201,Pending,,2024-02
+CUST013,1/3/2024,Electronics,Headphones,1,70,70,Karen Pink,karen.pink@email.com,888 Peach St.,Mountainview,CO,80001,Paid,,2024-03
+CUST014,5/3/2024,Home Goods,Toaster,1,35,35,Liam Gold,liam.gold@email.com,999 Plum Rd.,Desert Oasis,NV,89101,Paid,,2024-03
